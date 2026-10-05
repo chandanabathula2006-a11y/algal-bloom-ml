@@ -1,0 +1,10 @@
+[
+    "Temperature",
+    "Specific_Conductivity",
+    "DO_Saturation",
+    "Dissolved_Oxygen",
+    "Chlorophyll",
+    "Turbidity",
+    "Phycocyanin",
+    "pH"
+]
